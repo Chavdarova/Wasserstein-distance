@@ -18,7 +18,7 @@
 S = 200;
 T = [];       % cvx_times
 for s = 2:S   % s - number discrete states of the input random variables
-    n = s^2;  % number of states of the joint probability
+    n = s^2;  % n - number of states of the joint probability
 
     P_x = rand(1,s);    P_x = P_x/sum(P_x);
     P_y = rand(1,s);    P_y = P_y/sum(P_y);
