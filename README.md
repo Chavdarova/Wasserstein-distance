@@ -2,7 +2,7 @@
 Experiments based on the [CVX](http://cvxr.com/cvx/) toolbox for convex optimization in [Matlab](https://www.mathworks.com/products/matlab.html). 
 
 ## Dependencies
-- Matlab
+- [Matlab](https://www.mathworks.com/products/matlab.html)
 - [CVX](http://cvxr.com/cvx/): a Matlab-based modeling system for convex optimization
 
 ## Summary
